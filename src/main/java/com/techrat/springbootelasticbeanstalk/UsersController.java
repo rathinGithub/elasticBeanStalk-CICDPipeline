@@ -8,7 +8,7 @@ public class UsersController {
 
     @GetMapping(value = "/hello")
     public String findAll() {
-        return "Hello World";
+        return "Hello Bangalore";
     }
 
 }
